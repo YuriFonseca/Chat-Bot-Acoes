@@ -1,0 +1,2 @@
+chave_api = 'CHAVE API DO ALPHAVANTAGE'
+token = 'TOKEN DO BOTFATHER'
